@@ -285,11 +285,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5395513519760382176, guid: 79ee5f02d57a4cc4baf11e7920a9dfff, type: 3}
       propertyPath: m_Name
-      value: Map1
+      value: Map1 Variant
       objectReference: {fileID: 0}
     - target: {fileID: 5395513519760382176, guid: 79ee5f02d57a4cc4baf11e7920a9dfff, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5395513519760382177, guid: 79ee5f02d57a4cc4baf11e7920a9dfff, type: 3}
       propertyPath: m_Pivot.x
